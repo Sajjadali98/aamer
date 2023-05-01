@@ -1,0 +1,35 @@
+
+<html>
+<head>
+<title>Hello World!</title>
+   <title> Application form </title>
+   <style type="text/css">   
+       label {
+       	border: 1px inset #0076ff;
+       	border-radius: 5px;
+       	background: #428bca;
+       	color: #fff;
+       	padding-left: 4px;
+       	padding-right: 4px;
+       	margin-right: 3px;
+       }
+   </style>
+ <Head> <title>"Application form"</title>
+</head>
+<body>   
+   <label for="demo"> First Name: </label>
+   <input type="text" id="demo" />
+   <label for="demo"> Middle Name: </label>
+   <input type="text" id="demo"  />
+   <label for="demo"> Last Name : </label>
+   <input type="text" id="demo" />
+   <label for="demo"> Mobile number:  </label>
+   <input type="text" id="demo" />
+   <label for="demo"> Email:        </label>
+   <input type="text" id="demo" />
+   <label for="demo"> Address:      </label>
+   <input type="text" id="demo" />
+<p>This is the first file in my new Git Repo.</p>
+<h1>Hello world!</h1>
+</body>
+</html>
